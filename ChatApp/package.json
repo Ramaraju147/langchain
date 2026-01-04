@@ -6,7 +6,8 @@
   "scripts": {
     "start:basic": "node -r ts-node/register --env-file=.env src/basicChat/index.ts",
     "start:tools": "node -r ts-node/register --env-file=.env src/tools/index.ts",
-    "start:flight": "node -r ts-node/register --env-file=.env src/flightAssistant/index.ts"
+    "start:flight": "node -r ts-node/register --env-file=.env src/flightAssistant/index.ts",
+    "start:image": "node -r ts-node/register --env-file=.env src/imageGeneration/index.ts"
   },
   "keywords": [],
   "author": "",
