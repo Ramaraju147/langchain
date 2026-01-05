@@ -8,7 +8,8 @@
     "start:tools": "node -r ts-node/register --env-file=.env src/tools/index.ts",
     "start:flight": "node -r ts-node/register --env-file=.env src/flightAssistant/index.ts",
     "start:image": "node -r ts-node/register --env-file=.env src/imageGeneration/index.ts",
-    "start:textToSpeech": "node -r ts-node/register --env-file=.env src/textToSpeech/index.ts"
+    "start:textToSpeech": "node -r ts-node/register --env-file=.env src/textToSpeech/index.ts",
+    "start:embeddings": "node -r ts-node/register --env-file=.env src/embeddings/index.ts"
   },
   "keywords": [],
   "author": "",
