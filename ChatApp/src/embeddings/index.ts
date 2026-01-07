@@ -4,7 +4,7 @@ import {OpenAI} from 'openai';
 
 const openAi = new OpenAI();
 
-async function generateEmbeddings(input: string[]) {
+export async function generateEmbeddings(input: string[]) {
 
     const response = await openAi.embeddings.create({
         model: 'text-embedding-3-small',
@@ -15,8 +15,8 @@ async function generateEmbeddings(input: string[]) {
     return response;
 }
 
-function loadJsonData() {
-    const path = join(__dirname, 'data.json');
+export function loadJsonData(filename: string = 'data.json') {
+    const path = join(__dirname, filename);
     const data = readFileSync(path);
     return JSON.parse(data.toString());
 }

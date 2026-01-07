@@ -1,0 +1,604 @@
+{
+    "movies": [
+        {
+            "id": 1,
+            "title": "The Shawshank Redemption",
+            "description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+            "genre": "Drama"
+        },
+        {
+            "id": 2,
+            "title": "The Godfather",
+            "description": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant youngest son.",
+            "genre": "Crime"
+        },
+        {
+            "id": 3,
+            "title": "The Dark Knight",
+            "description": "When the menace known as the Joker wreaks havoc on Gotham, Batman must accept one of the greatest tests.",
+            "genre": "Action"
+        },
+        {
+            "id": 4,
+            "title": "Pulp Fiction",
+            "description": "The lives of four mobsters, two hit men, a gangster and his wife intertwine in four tales of violence and redemption.",
+            "genre": "Crime"
+        },
+        {
+            "id": 5,
+            "title": "Forrest Gump",
+            "description": "The presidencies of Kennedy and Johnson unfold through the perspective of an Alabama man with an IQ of 75.",
+            "genre": "Drama"
+        },
+        {
+            "id": 6,
+            "title": "Inception",
+            "description": "A thief who steals corporate secrets through dream-sharing technology is given the inverse task of planting an idea.",
+            "genre": "Science Fiction"
+        },
+        {
+            "id": 7,
+            "title": "The Matrix",
+            "description": "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.",
+            "genre": "Science Fiction"
+        },
+        {
+            "id": 8,
+            "title": "Interstellar",
+            "description": "A team of explorers travel through a wormhole in space to ensure humanity's survival.",
+            "genre": "Science Fiction"
+        },
+        {
+            "id": 9,
+            "title": "The Avengers",
+            "description": "Earth's mightiest heroes must come together and learn to fight as a team to defend the world.",
+            "genre": "Action"
+        },
+        {
+            "id": 10,
+            "title": "Titanic",
+            "description": "A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.",
+            "genre": "Romance"
+        },
+        {
+            "id": 11,
+            "title": "Avatar",
+            "description": "A paraplegic Marine dispatched to the moon Pandora on a unique mission becomes torn between following his orders and protecting the world he feels is his home.",
+            "genre": "Science Fiction"
+        },
+        {
+            "id": 12,
+            "title": "Gladiator",
+            "description": "A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery.",
+            "genre": "Action"
+        },
+        {
+            "id": 13,
+            "title": "The Lion King",
+            "description": "Lion prince Simba flees his kingdom after the death of his father, only to discover the truth about his past and reclaim his throne.",
+            "genre": "Animation"
+        },
+        {
+            "id": 14,
+            "title": "Frozen",
+            "description": "When the newly crowned Queen Elsa accidentally freezes her kingdom, Anna sets out to find her and break the spell.",
+            "genre": "Animation"
+        },
+        {
+            "id": 15,
+            "title": "The Notebook",
+            "description": "A poor yet passionate young man falls in love with a rich young woman, giving her a sense of freedom, but they are soon separated because of their social differences.",
+            "genre": "Romance"
+        },
+        {
+            "id": 16,
+            "title": "Pride and Prejudice",
+            "description": "Sparks fly when strong-willed Elizabeth Bennet meets proud Mr. Darcy in this romantic adaptation of Jane Austen's classic novel.",
+            "genre": "Romance"
+        },
+        {
+            "id": 17,
+            "title": "The Conjuring",
+            "description": "Paranormal investigators work to help a family terrorized by a dark presence in their farmhouse.",
+            "genre": "Horror"
+        },
+        {
+            "id": 18,
+            "title": "The Ring",
+            "description": "A journalist must investigate a mysterious videotape that kills whoever watches it within seven days.",
+            "genre": "Horror"
+        },
+        {
+            "id": 19,
+            "title": "Jaws",
+            "description": "When a giant great white shark begins hunting people off the coast of a beach town, three men set out to stop it.",
+            "genre": "Thriller"
+        },
+        {
+            "id": 20,
+            "title": "The Sixth Sense",
+            "description": "A young boy who communicates with spirits seeks the help of a disgraced child psychologist to deal with his ability.",
+            "genre": "Thriller"
+        },
+        {
+            "id": 21,
+            "title": "Joker",
+            "description": "In Gotham City, a failed comedian turns to a life of crime and chaos when society rejects him.",
+            "genre": "Drama"
+        },
+        {
+            "id": 22,
+            "title": "Parasite",
+            "description": "Greed and class discrimination threaten the newly formed symbiotic relationship between the wealthy Park family and the destitute Kim clan.",
+            "genre": "Thriller"
+        },
+        {
+            "id": 23,
+            "title": "Whiplash",
+            "description": "A promising jazz drummer is pushed to his limits by his abusive instructor.",
+            "genre": "Drama"
+        },
+        {
+            "id": 24,
+            "title": "La La Land",
+            "description": "While navigating their careers in Los Angeles, a pianist and an actress fall in love while pursuing their dreams.",
+            "genre": "Romance"
+        },
+        {
+            "id": 25,
+            "title": "The Great Gatsby",
+            "description": "A mysterious millionaire throws lavish parties and pursues a married woman, with tragic consequences.",
+            "genre": "Romance"
+        },
+        {
+            "id": 26,
+            "title": "Breakfast at Tiffany's",
+            "description": "A young woman becomes the toast of New York City with her carefree lifestyle and charm.",
+            "genre": "Romance"
+        },
+        {
+            "id": 27,
+            "title": "Casablanca",
+            "description": "In unoccupied Africa during WWII, an American expatriate encounters his lost love, forcing him to make a difficult choice.",
+            "genre": "Romance"
+        },
+        {
+            "id": 28,
+            "title": "Citizen Kane",
+            "description": "Following the death of a media mogul, reporters investigate his final word: 'Rosebud.'",
+            "genre": "Drama"
+        },
+        {
+            "id": 29,
+            "title": "Vertigo",
+            "description": "A detective with a fear of heights becomes obsessed with a mysterious woman in this psychological thriller.",
+            "genre": "Thriller"
+        },
+        {
+            "id": 30,
+            "title": "Psycho",
+            "description": "A woman on the run checks into a motel where she encounters the disturbed proprietor and his sinister mother.",
+            "genre": "Horror"
+        },
+        {
+            "id": 31,
+            "title": "Rear Window",
+            "description": "A wheelchair-bound photographer spies on his neighbors and becomes convinced one of them has committed murder.",
+            "genre": "Thriller"
+        },
+        {
+            "id": 32,
+            "title": "North by Northwest",
+            "description": "An innocent man is mistaken for a spy and must go on the run while evading both spies and assassins.",
+            "genre": "Thriller"
+        },
+        {
+            "id": 33,
+            "title": "Singin' in the Rain",
+            "description": "A performer helps a new starlet navigate the transition from silent to talking pictures in 1920s Hollywood.",
+            "genre": "Musical"
+        },
+        {
+            "id": 34,
+            "title": "West Side Story",
+            "description": "Two teenagers from rival gangs fall in love in this modern retelling of Romeo and Juliet.",
+            "genre": "Musical"
+        },
+        {
+            "id": 35,
+            "title": "The Sound of Music",
+            "description": "A spirited nun becomes a tutor to a large family and helps them escape Nazi Austria with her music and love.",
+            "genre": "Musical"
+        },
+        {
+            "id": 36,
+            "title": "Gone with the Wind",
+            "description": "A strong-willed Southern woman navigates love and loss during the American Civil War.",
+            "genre": "Romance"
+        },
+        {
+            "id": 37,
+            "title": "It's a Wonderful Life",
+            "description": "An angel shows a suicidal man what life would have been like had he never been born.",
+            "genre": "Drama"
+        },
+        {
+            "id": 38,
+            "title": "The Wizard of Oz",
+            "description": "A Kansas girl swept away by a tornado travels through a magical land to find her way home.",
+            "genre": "Fantasy"
+        },
+        {
+            "id": 39,
+            "title": "Snow White and the Seven Dwarfs",
+            "description": "A princess fleeing her evil stepmother finds refuge with seven dwarfs in the forest.",
+            "genre": "Animation"
+        },
+        {
+            "id": 40,
+            "title": "Cinderella",
+            "description": "A mistreated girl gets her chance at a better life with the help of her fairy godmother.",
+            "genre": "Animation"
+        },
+        {
+            "id": 41,
+            "title": "Beauty and the Beast",
+            "description": "A young woman falls in love with a cursed prince and breaks his spell through her compassion.",
+            "genre": "Animation"
+        },
+        {
+            "id": 42,
+            "title": "Aladdin",
+            "description": "A street urchin uses a magical lamp to win the heart of a princess.",
+            "genre": "Animation"
+        },
+        {
+            "id": 43,
+            "title": "The Little Mermaid",
+            "description": "A mermaid princess makes a deal to become human and win the heart of a prince.",
+            "genre": "Animation"
+        },
+        {
+            "id": 44,
+            "title": "Moana",
+            "description": "A strong-willed girl sets out on a daring ocean voyage to save her people.",
+            "genre": "Animation"
+        },
+        {
+            "id": 45,
+            "title": "Coco",
+            "description": "A young boy enters the Land of the Dead to uncover his family's musical heritage.",
+            "genre": "Animation"
+        },
+        {
+            "id": 46,
+            "title": "Toy Story",
+            "description": "A cowboy doll and a space ranger toy must work together to reunite with their owner.",
+            "genre": "Animation"
+        },
+        {
+            "id": 47,
+            "title": "Finding Nemo",
+            "description": "A clownfish searches the ocean for his captured son with the help of an amnesiac companion.",
+            "genre": "Animation"
+        },
+        {
+            "id": 48,
+            "title": "Inside Out",
+            "description": "Emotions inside a girl's mind guide her through her family's move to a new city.",
+            "genre": "Animation"
+        },
+        {
+            "id": 49,
+            "title": "The Incredibles",
+            "description": "A superhero family comes out of retirement to save the world from a vengeful villain.",
+            "genre": "Animation"
+        },
+        {
+            "id": 50,
+            "title": "Shrek",
+            "description": "An ogre rescues a princess to win back his swamp, but finds true love in the process.",
+            "genre": "Animation"
+        },
+        {
+            "id": 51,
+            "title": "How to Train Your Dragon",
+            "description": "A young Viking must train a dangerous dragon to save his village.",
+            "genre": "Animation"
+        },
+        {
+            "id": 52,
+            "title": "Spirited Away",
+            "description": "A girl enters a magical bathhouse and must find her way home while rescuing her parents.",
+            "genre": "Animation"
+        },
+        {
+            "id": 53,
+            "title": "Howl's Moving Castle",
+            "description": "A young woman cursed to live as an elderly woman seeks refuge in a magical castle.",
+            "genre": "Animation"
+        },
+        {
+            "id": 54,
+            "title": "Castle in the Sky",
+            "description": "A boy and girl search for a legendary floating castle in the sky.",
+            "genre": "Animation"
+        },
+        {
+            "id": 55,
+            "title": "Princess Mononoke",
+            "description": "A young prince must stop a war between humans and the gods of the forest.",
+            "genre": "Animation"
+        },
+        {
+            "id": 56,
+            "title": "Up",
+            "description": "An elderly widower and a young boy embark on an adventure to Paradise Falls.",
+            "genre": "Animation"
+        },
+        {
+            "id": 57,
+            "title": "Ratatouille",
+            "description": "A rat with a passion for cooking forms an alliance with a human to run a Parisian restaurant.",
+            "genre": "Animation"
+        },
+        {
+            "id": 58,
+            "title": "Cars",
+            "description": "A hotshot race car must learn the value of friendship and family in a small town.",
+            "genre": "Animation"
+        },
+        {
+            "id": 59,
+            "title": "Monsters, Inc.",
+            "description": "Two monsters must protect a human child from a sinister conspiracy in their world.",
+            "genre": "Animation"
+        },
+        {
+            "id": 60,
+            "title": "A Bug's Life",
+            "description": "An inventive ant leads a colony in a revolt against oppressive grasshoppers.",
+            "genre": "Animation"
+        },
+        {
+            "id": 61,
+            "title": "Zootopia",
+            "description": "A rookie bunny cop and a cynical con artist fox must solve a missing animal case.",
+            "genre": "Animation"
+        },
+        {
+            "id": 62,
+            "title": "Big Hero 6",
+            "description": "A tech prodigy and his inflatable robot companion must stop a masked villain.",
+            "genre": "Animation"
+        },
+        {
+            "id": 63,
+            "title": "Tangled",
+            "description": "A princess with magical hair escapes her tower to discover her true identity.",
+            "genre": "Animation"
+        },
+        {
+            "id": 64,
+            "title": "Wreck-It Ralph",
+            "description": "A video game villain tries to become a hero by entering other arcade games.",
+            "genre": "Animation"
+        },
+        {
+            "id": 65,
+            "title": "Kung Fu Panda",
+            "description": "A clumsy panda must become a martial arts master to save his valley.",
+            "genre": "Animation"
+        },
+        {
+            "id": 66,
+            "title": "Madagascar",
+            "description": "Zoo animals escape and find themselves stranded in Madagascar.",
+            "genre": "Animation"
+        },
+        {
+            "id": 67,
+            "title": "Ice Age",
+            "description": "Prehistoric animals must journey across an icy landscape to return a human baby to his tribe.",
+            "genre": "Animation"
+        },
+        {
+            "id": 68,
+            "title": "Finding Dory",
+            "description": "A forgetful fish embarks on a quest to find her family with help from her friends.",
+            "genre": "Animation"
+        },
+        {
+            "id": 69,
+            "title": "Happy Feet",
+            "description": "A penguin who can dance must find his place in an emperor penguin colony.",
+            "genre": "Animation"
+        },
+        {
+            "id": 70,
+            "title": "Cloudy with a Chance of Meatballs",
+            "description": "An inventor creates a weather machine that rains food, causing chaos in a small town.",
+            "genre": "Animation"
+        },
+        {
+            "id": 71,
+            "title": "The Lego Movie",
+            "description": "An ordinary lego figure is mistaken for a prophesied hero who can save the lego universe.",
+            "genre": "Animation"
+        },
+        {
+            "id": 72,
+            "title": "Toy Story 3",
+            "description": "Woody and his toy friends must escape from a daycare and rescue mission.",
+            "genre": "Animation"
+        },
+        {
+            "id": 73,
+            "title": "Toy Story 4",
+            "description": "Woody embarks on a road trip and must help a lost toy find her owner.",
+            "genre": "Animation"
+        },
+        {
+            "id": 74,
+            "title": "Incredibles 2",
+            "description": "The superhero family faces new threats while the mom takes on hero duty.",
+            "genre": "Animation"
+        },
+        {
+            "id": 75,
+            "title": "Coco 2",
+            "description": "Miguel returns to the Land of the Dead to uncover more family secrets.",
+            "genre": "Animation"
+        },
+        {
+            "id": 76,
+            "title": "Encanto",
+            "description": "A girl without magic must save her magical family and their enchanted house.",
+            "genre": "Animation"
+        },
+        {
+            "id": 77,
+            "title": "Turning Red",
+            "description": "A girl discovers she can transform into a giant red panda when emotional.",
+            "genre": "Animation"
+        },
+        {
+            "id": 78,
+            "title": "Soul",
+            "description": "A jazz musician gets separated from his soul before his big performance.",
+            "genre": "Animation"
+        },
+        {
+            "id": 79,
+            "title": "Luca",
+            "description": "A sea monster boy must hide his true form while befriending a human girl.",
+            "genre": "Animation"
+        },
+        {
+            "id": 80,
+            "title": "Raya and the Last Dragon",
+            "description": "A warrior and the last dragon must save their world from dark forces.",
+            "genre": "Animation"
+        },
+        {
+            "id": 81,
+            "title": "Harry Potter and the Philosopher's Stone",
+            "description": "A young wizard discovers his magical heritage and begins his training at Hogwarts.",
+            "genre": "Fantasy"
+        },
+        {
+            "id": 82,
+            "title": "Harry Potter and the Chamber of Secrets",
+            "description": "Harry must uncover the mystery of a secret chamber and the creature within it.",
+            "genre": "Fantasy"
+        },
+        {
+            "id": 83,
+            "title": "Lord of the Rings: The Fellowship of the Ring",
+            "description": "A hobbit must destroy a powerful ring by journeying to Mount Doom with his fellowship.",
+            "genre": "Fantasy"
+        },
+        {
+            "id": 84,
+            "title": "Lord of the Rings: The Two Towers",
+            "description": "The fellowship is broken as two hobbits continue their quest while others fight in a war.",
+            "genre": "Fantasy"
+        },
+        {
+            "id": 85,
+            "title": "Lord of the Rings: The Return of the King",
+            "description": "The final battle for Middle-earth ensues as Frodo attempts to destroy the One Ring.",
+            "genre": "Fantasy"
+        },
+        {
+            "id": 86,
+            "title": "The Hobbit: An Unexpected Journey",
+            "description": "A hobbit embarks on an unexpected adventure with dwarves to reclaim their treasure.",
+            "genre": "Fantasy"
+        },
+        {
+            "id": 87,
+            "title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+            "description": "Children discover a magical world through a wardrobe and must help a lion defeat the White Witch.",
+            "genre": "Fantasy"
+        },
+        {
+            "id": 88,
+            "title": "Percy Jackson & The Olympians: The Lightning Thief",
+            "description": "A young boy discovers he is the son of a Greek god and must save the world.",
+            "genre": "Fantasy"
+        },
+        {
+            "id": 89,
+            "title": "The Hunger Games",
+            "description": "A girl volunteers to participate in a televised death match to save her sister.",
+            "genre": "Action"
+        },
+        {
+            "id": 90,
+            "title": "Divergent",
+            "description": "A teenager discovers she is divergent in a dystopian society divided by factions.",
+            "genre": "Action"
+        },
+        {
+            "id": 91,
+            "title": "The Maze Runner",
+            "description": "Teenagers wake up in a mysterious maze with no memory of how they got there.",
+            "genre": "Action"
+        },
+        {
+            "id": 92,
+            "title": "Ready Player One",
+            "description": "A teenager enters a virtual reality game world to find a hidden fortune and win a prize.",
+            "genre": "Science Fiction"
+        },
+        {
+            "id": 93,
+            "title": "Ender's Game",
+            "description": "A brilliant young boy is trained at a military school to command a fleet against aliens.",
+            "genre": "Science Fiction"
+        },
+        {
+            "id": 94,
+            "title": "Dune",
+            "description": "A young man must navigate a dangerous desert planet while uncovering his mysterious destiny.",
+            "genre": "Science Fiction"
+        },
+        {
+            "id": 95,
+            "title": "Blade Runner 2049",
+            "description": "A blade runner investigates a case that could plunge the world into chaos.",
+            "genre": "Science Fiction"
+        },
+        {
+            "id": 96,
+            "title": "Ex Machina",
+            "description": "A programmer is invited to administer a Turing test on a humanoid artificial intelligence.",
+            "genre": "Science Fiction"
+        },
+        {
+            "id": 97,
+            "title": "Arrival",
+            "description": "A linguist must communicate with aliens to prevent a global war.",
+            "genre": "Science Fiction"
+        },
+        {
+            "id": 98,
+            "title": "The Martian",
+            "description": "An astronaut must survive on Mars until rescue while using his ingenuity and science knowledge.",
+            "genre": "Science Fiction"
+        },
+        {
+            "id": 99,
+            "title": "Gravity",
+            "description": "An astronaut must survive after debris destroys her spaceship in orbit.",
+            "genre": "Science Fiction"
+        },
+        {
+            "id": 100,
+            "title": "Twisters",
+            "description": "Storm chasers face their personal demons while trying to prevent a catastrophic tornado.",
+            "genre": "Thriller"
+        }
+    ]
+}

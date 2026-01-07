@@ -9,7 +9,10 @@
     "start:flight": "node -r ts-node/register --env-file=.env src/flightAssistant/index.ts",
     "start:image": "node -r ts-node/register --env-file=.env src/imageGeneration/index.ts",
     "start:textToSpeech": "node -r ts-node/register --env-file=.env src/textToSpeech/index.ts",
-    "start:embeddings": "node -r ts-node/register --env-file=.env src/embeddings/index.ts"
+    "start:embeddings": "node -r ts-node/register --env-file=.env src/embeddings/index.ts",
+    "start:similarity": "node -r ts-node/register --env-file=.env src/embeddings/similarity.ts",
+    "start:movieEmbeddings": "node -r ts-node/register --env-file=.env src/movieRecommendation/main.ts",
+    "start:movieRecommendation": "node -r ts-node/register --env-file=.env src/movieRecommendation/userInterface.ts"
   },
   "keywords": [],
   "author": "",
